@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZmieniaczTla</string>
+
+    <string-array name="texts">
+        <item>Dzień dobry</item>
+        <item>Miłego dnia</item>
+        <item>Słoneczny poranek</item>
+    </string-array>
+
+    <string-array name="texts_night">
+        <item>Dobry wieczór</item>
+        <item>Dobranoc</item>
+        <item>Gwiaździsta noc</item>
+    </string-array>
+
+</resources>
